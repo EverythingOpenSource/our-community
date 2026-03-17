@@ -168,7 +168,7 @@ We are committed to maintaining a welcoming and respectful space for everyone. P
 
 - [Twitter/X](https://x.com/everything_OSS)
 - [Instagram](https://www.instagram.com/everything_opensource?igsh=MjQxNGw4ajhxaWVk)
-- Blog: [mesrenyamedogbe.hashnode.dev](https://mesrenyamedogbe.hashnode.dev)
+- Blog: [Everything Open Source Blogs](https://everythingopensource.hashnode.dev/)
 - Newsletter: *(coming soon)*
 - Discord: *(coming soon)*
 
