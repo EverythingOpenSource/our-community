@@ -160,7 +160,7 @@ We would love to hear it. Send an email to everythingopensource@gmail.com . Comm
 
 ## Community Guidelines
 
-We are committed to maintaining a welcoming and respectful space for everyone. Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating.
+We are committed to maintaining a welcoming and respectful space for everyone. Please read our [Code of Conduct]([code of conduct.md](https://github.com/EverythingOpenSource/our-community/blob/main/code%20of%20conduct.md)) before participating.
 
 ---
 
