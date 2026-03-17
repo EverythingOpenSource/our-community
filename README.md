@@ -58,8 +58,8 @@ Twitter/X Spaces, workshops, and meetups to connect, learn, and share.
 
 ### Open Source in Africa
 Resources and initiatives spotlighting the open-source ecosystem across Africa.
-[Open Source Communities in Africa →](https://github.com/EverythingOpenSource/open-source-communities-in-africa)
-[Open Source People in Africa →](https://github.com/EverythingOpenSource/open-source-people-in-africa)
+- [Open Source Communities in Africa →](https://github.com/EverythingOpenSource/open-source-communities-in-africa)
+- [Open Source People in Africa →](https://github.com/EverythingOpenSource/open-source-people-in-africa)
 
 ---
 
