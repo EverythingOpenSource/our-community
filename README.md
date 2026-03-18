@@ -166,6 +166,7 @@ We are committed to maintaining a welcoming and respectful space for everyone. P
 
 ## Stay Connected
 
+- [LinkedIn](https://www.linkedin.com/company/everything-open-source/?viewAsMember=true)
 - [Twitter/X](https://x.com/everything_OSS)
 - [Instagram](https://www.instagram.com/everything_opensource?igsh=MjQxNGw4ajhxaWVk)
 - Blog: [Everything Open Source Blogs](https://everythingopensource.hashnode.dev/)
