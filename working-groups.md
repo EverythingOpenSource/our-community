@@ -9,16 +9,16 @@ Our Working Groups are domain-focused spaces where contributors meet
 regularly, share resources, document processes, collaborate on projects, 
 and support each other's growth. Whether you write code, design 
 interfaces, write documentation, or build communities, there is a 
-workgroup for you.
+Working Group for you.
 
 ---
 
 ## 📌 How Working Groups Work
 
-Each workgroup has its own GitHub repository where everything happens. 
+Each Working Group has its own GitHub repository where everything happens. 
 Inside you will find:
 
-- A clear description of the workgroup's focus and goals
+- A clear description of the Working Group's focus and goals
 - Information on how to join and who leads the group
 - Meeting notes and schedules
 - Resources, tools, and learning materials
@@ -27,11 +27,37 @@ Inside you will find:
 
 All Working Groups operate under the Everything Open Source 
 [Code of Conduct](./CODE_OF_CONDUCT.md). Please read it before 
-joining any workgroup.
+joining any Working Group.
 
 ---
 
-## 🗂️ Active Working Groups
+## 🗂️ Working Groups
+
+2026 is a foundational year for the Everything Open Source 
+Working Group ecosystem. The Community Management Working Group is the 
+first one we are launching, and one of our most important 
+responsibilities this year is to prove the model works and to lay the groundwork for 2027 by:
+
+- Identifing the domains where new Working Groups should be launched 
+  in 2027
+- Recruiting potential leads for future Working Groups from within 
+  the community
+- Producing a 2027 Working Group Roadmap that the Everything Open 
+  Source core team can use to plan the next phase of expansion
+
+### 🌱 Community Management
+For contributors interested in building, growing, and sustaining 
+open-source communities. This Working Group focuses on the human side 
+of open source.
+
+- **Focus:** Community building, contributor experience, onboarding, engagement, and community health
+- **Best for:** Community managers, developer advocates, and people-focused contributors
+- **Repository:** [wg-community-management](https://github.com/EverythingOpenSource/wg-community-management)
+- **Lead:** *(add name and GitHub handle)*
+- **Meets:** *(add cadence)*
+- **Discord:** *(add channel link)*
+
+---
 
 ### 💻 Frontend Engineering
 For contributors interested in building and improving user interfaces, 
@@ -80,20 +106,6 @@ to understand, use, and contribute to through excellent written content.
 - **Focus:** Technical documentation, contributor guides, tutorials, READMEs, and API docs
 - **Best for:** Technical writers, developers who love writing, and documentation enthusiasts
 - **Repository:** [wg-documentation](https://github.com/EverythingOpenSource/wg-documentation)
-- **Lead:** *(add name and GitHub handle)*
-- **Meets:** *(add cadence)*
-- **Discord:** *(add channel link)*
-
----
-
-### 🌱 Community Management
-For contributors interested in building, growing, and sustaining 
-open-source communities. This workgroup focuses on the human side 
-of open source.
-
-- **Focus:** Community building, contributor experience, onboarding, engagement, and community health
-- **Best for:** Community managers, developer advocates, and people-focused contributors
-- **Repository:** [wg-community-management](https://github.com/EverythingOpenSource/wg-community-management)
 - **Lead:** *(add name and GitHub handle)*
 - **Meets:** *(add cadence)*
 - **Discord:** *(add channel link)*
@@ -168,53 +180,53 @@ meaningfully to open-source projects.
 
 ---
 
-## 🚀 How to Join a Workgroup
+## 🚀 How to Join a Working Group
 
-Joining a workgroup is simple and open to everyone. Here is how:
+Joining a Working Group is simple and open to everyone. Here is how:
 
-1. **Find your workgroup** — browse the list above and pick the one 
+1. **Find your Working Group** — browse the list above and pick the one 
    that matches your interests and skills
 2. **Visit the repository** — read the README to understand the 
-   workgroup's focus, current projects, and meeting schedule
+   Working Group's focus, current projects, and meeting schedule
 3. **Introduce yourself** — open a GitHub Discussion or leave a 
    comment in the introductions thread inside the repository
-4. **Join the Discord channel** — connect with workgroup members 
+4. **Join the Discord channel** — connect with Working Group members 
    in real time
-5. **Attend a meeting** — show up to the next workgroup meeting and 
+5. **Attend a meeting** — show up to the next Working Group meeting and 
    start getting involved
 
-You are welcome to join more than one workgroup. Many contributors 
+You are welcome to join more than one Working Group. Many contributors 
 participate across multiple domains.
 
 ---
 
-## 💡 Propose a New Workgroup
+## 💡 Propose a New Working Group
 
-Do not see a workgroup that fits your area of interest? You can 
+Do not see a Working Group that fits your area of interest? You can 
 propose a new one.
 
-To propose a new workgroup:
+To propose a new Working Group:
 
 1. Open a [GitHub Discussion](https://github.com/EverythingOpenSource/community/discussions) 
-   in the community repository with the label `workgroup-proposal`
+   in the community repository with the label `Working Group-proposal`
 2. Include the following in your proposal:
-   - The name and focus of the proposed workgroup
+   - The name and focus of the proposed Working Group
    - Why it is needed and who it would serve
    - How it differs from existing Working Groups
    - Whether you are willing to lead it or co-lead it
 3. The core team will review proposals and respond within two weeks
 
-A new workgroup needs at least one committed lead and a clear, 
+A new Working Group needs at least one committed lead and a clear, 
 distinct focus before it can be approved and launched.
 
 ---
 
-## 📋 Workgroup Guidelines
+## 📋 Working Group Guidelines
 
 All Working Groups are expected to:
 
 - Meet at least once per month
-- Publish meeting notes in the workgroup repository within 48 hours 
+- Publish meeting notes in the Working Group repository within 48 hours 
   of each meeting
 - Keep the repository README and resources up to date
 - Welcome new members warmly and make introductions easy
@@ -225,7 +237,7 @@ All Working Groups are expected to:
 
 Working Groups that have been inactive for three consecutive months will 
 be reviewed by the core team and may be archived or merged with 
-another workgroup.
+another Working Group.
 
 ---
 
@@ -242,5 +254,5 @@ another workgroup.
 ---
 
 *Everything Open Source is community-driven and volunteer-powered. 
-Every workgroup exists because people like you showed up and made 
+Every Working Group exists because people like you showed up and made 
 it happen. Thank you for being here.*
